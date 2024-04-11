@@ -1,0 +1,25 @@
+payload:
+  - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,v2rayse.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,instagram.com.com
+  - DOMAIN-KEYWORD,pixiv
+  - DOMAIN-KEYWORD,pximg
+  - DOMAIN-SUFFIX,tumblr.com
+  - DOMAIN-SUFFIX,mega.nz
+  - DOMAIN-SUFFIX,wikipedia.org
+ # Github
+  - PROCESS-NAME,GitHubDesktop.exe
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubapp.com
+  # OPenAi
+  - DOMAIN-SUFFIX,chat.openai.com
+  - DOMAIN-SUFFIX,auth0.openai.com
+  - DOMAIN-SUFFIX,cdn.openai.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,ingest.sentry.io
+  - DOMAIN-SUFFIX,client.crisp.chat
