@@ -23,3 +23,7 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,ingest.sentry.io
   - DOMAIN-SUFFIX,client.crisp.chat
+  #Google
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,googleapis.com
