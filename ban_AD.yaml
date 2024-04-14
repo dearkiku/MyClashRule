@@ -1,6 +1,5 @@
 payload:
- #开/关 百度的屏蔽可以让你知道是否生效
- #- '+.www.baidu.com'
+ - '+.ads.raidrive.com'
  - '+.0.code.cotsta.ru'
  - '+.0.nextyourcontent.com'
  - '+.0008d6ba2e.com'
